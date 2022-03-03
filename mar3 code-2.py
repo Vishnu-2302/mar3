@@ -1,0 +1,6 @@
+t1=('vishnu','chandan')
+t2=('sujay','srikar')
+print(t1)
+print((t2))
+print(t1+t2)
+print('the data type is : ',type(t1+t2))
